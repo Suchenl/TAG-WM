@@ -49,8 +49,6 @@ If you find this work useful, please consider citing our paper and giving the re
 @article{chen2025tag,
   title={TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity}, 
   author={Chen, Yuzhuo and Ma, Zehua and Fang, Han and Zhang, Weiming and Yu, Nenghai},
-  journal={arXiv preprint arXiv:2506.23484
-        
-        },
+  journal={arXiv preprint arXiv:2506.23484},
   year={2025}
 }
