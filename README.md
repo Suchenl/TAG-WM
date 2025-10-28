@@ -1,7 +1,7 @@
 # TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_TAG-WM_Tamper-Aware_Generative_Image_Watermarking_via_Diffusion_Inversion_Sensitivity_ICCV_2025_paper.html)
+[![Paper](https://img.shields.io/badge/Paper-ICCV_2025-red?style=flat-square)](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_TAG-WM_Tamper-Aware_Generative_Image_Watermarking_via_Diffusion_Inversion_Sensitivity_ICCV_2025_paper.html)
 [![GitHub Stars](https://img.shields.io/github/stars/Suchenl/TAG-WM?style=social)](https://github.com/Suchenl/TAG-WM)
 
 Official implementation of **TAG-WM**, a tamper-aware watermarking framework for diffusion-generated images.  
