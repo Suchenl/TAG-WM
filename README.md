@@ -1,7 +1,7 @@
 # TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2506.23484-b31b1b.svg)](https://arxiv.org/pdf/2506.23484)
+[![Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_TAG-WM_Tamper-Aware_Generative_Image_Watermarking_via_Diffusion_Inversion_Sensitivity_ICCV_2025_paper.html)
 [![GitHub Stars](https://img.shields.io/github/stars/Suchenl/TAG-WM?style=social)](https://github.com/Suchenl/TAG-WM)
 
 Official implementation of **TAG-WM**, a tamper-aware watermarking framework for diffusion-generated images.  
@@ -112,9 +112,11 @@ This project is licensed under the **MIT License** - a permissive free software 
 ## 📄 Citation
 If you find this work useful, please consider citing our paper and giving the repo a ⭐:
 ```bibtex
-@article{chen2025tag,
-  title={TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity}, 
-  author={Chen, Yuzhuo and Ma, Zehua and Fang, Han and Zhang, Weiming and Yu, Nenghai},
-  journal={arXiv preprint arXiv:2506.23484},
-  year={2025}
+@InProceedings{chen2025tag,
+    author    = {Chen, Yuzhuo and Ma, Zehua and Fang, Han and Zhang, Weiming and Yu, Nenghai},
+    title     = {TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {16723-16732}
 }
